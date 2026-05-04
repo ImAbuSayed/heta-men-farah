@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Heta Men Farah |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 05, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/heta-men-farah/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
