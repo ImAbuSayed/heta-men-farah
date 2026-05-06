@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/heta-men-farah/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Obtain a Music License for Heta Men Farah](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Sync Licensing for Heta Men Farah](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
