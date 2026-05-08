@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Heta Men Farah
+
+This log tracks the cryptographic history and versioning for the song **Heta Men Farah** (heta-men-farah).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T18:39:14.903623 | `v1` | `17ab7f2f8673f48fafc5fc23a776076cad84a4619d111cdf5b26f21c6c10530f` | `35640ba61a64491d22e0a5222dc87a18efe7d38892ac752a0db057a2f9dfe04d` | `2026-05-08_heta-men-farah-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
